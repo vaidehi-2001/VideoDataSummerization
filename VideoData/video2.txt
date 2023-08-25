@@ -1,0 +1,379 @@
+I didn't get my first attempt on Facebook.
+A lot of people say that hiring is broken in this way.
+You shouldn't do it.
+It focuses on algorithms, not software engineers.
+So hello everyone, today we have Ariyander here once again.
+And he's a very inspiration for me and for everyone.
+Because he just cracked one of the top Fortune 500 companies, not just top 500.
+The highest paying Fortune 500 company in which the name of Mank comes first.
+First it used to be Netflix, now it's Meta.
+Now it's Magma.
+Magma is a better representation.
+Meta, Amazon, Google, Microsoft, Apple.
+Yeah, and some people call it Matana.
+Make Matana anything.
+Awesome.
+So let's start your journey from Georgia Tech.
+So Georgia Tech when you entered, how did you start preparing for internships?
+And finally, later Meta internship.
+Yeah, totally.
+So first of all, when I was a freshman, I had no clue what was going on.
+You know, new computer science freshman.
+Couldn't even reverse a string in my first semester.
+That's how bad I was.
+I didn't know much about it because how to crack interviews.
+No idea.
+I was just like following the sort of what my friends used to do.
+Made 100 projects, had a lot of fun.
+And in the first year, I didn't even take much computer science classes.
+For instance, I took a total of three classes in computer science.
+So I didn't have that much scene that I had to do internships.
+I mean, in the first year, I was not serious about gaining work experience.
+I got more serious sort of in March.
+And that's already too late for doing internships in the US.
+So after my first summer, I went to India and interned at Intel.
+Where I did some data science work in Bangalore.
+So that was a very good experience.
+Working in the industry for the first time.
+That's the spirit actually because many students don't get internships in the US in the first year.
+I remember I have friends who also went to coding blocks in India.
+Intel, Qualcomm, they apply for all over the world.
+Referrals are especially valid in any country in Europe.
+Wherever you can get sponsorship, you can work there.
+And this gives you more liberty and more experience opportunities.
+Yeah, I mean, especially in the US and anywhere else.
+Your network is your network.
+It sounds fancy, but I mean, that's true reality.
+You can look at any startup.
+Their venture capital network makes them successful.
+You can look at anyone.
+You need to have a strong network.
+Absolutely.
+Now, when I was preparing for Facebook and Google, everyone thinks that coding interviews are very hard.
+And in fact, I just noticed that Google has removed 12 extremely difficult questions from their interviews.
+Because coding interviews are getting extremely difficult.
+Do you think they are getting easier now?
+Yeah, the bottom line is that competition is getting more.
+For everything, competition is getting more.
+But companies are also growing.
+Especially if talking if you're recruiting in fall 2021.
+For instance, like a male example, Loto, this summer, I worked at Salesforce, which is like the top CRM company.
+What is CRM?
+CRM is like, I don't know the full form, but it's basically like, you essentially allow your customers are businesses.
+So it's a B2B business.
+And then you're allowing customers to sort of like manage their customer data and like, help them with sales stuff.
+Yeah.
+So yeah, this summer, I was in Salesforce in Seattle, which is also like, I think ranked first or second in terms of happiness in fortune index.
+Wow!
+So I was in Salesforce Seattle office.
+We met there.
+Yeah, Salesforce Seattle office with Harnoor.
+I went to museum, Mount Rainier, where we couldn't go due to crazy weather.
+After that, yeah, now in fall, I'm in Meta Menlo Park, their global headquarters.
+And I work on the small ads business platform team.
+Essentially, whenever you want to boost an ad on Facebook or Instagram, the back end of that is maintained by our team.
+So as a result, I get to work on both Facebook and Instagram.
+And on top of that, Meta is a company that is very fast paced.
+If you look at their corporate values, one of the first values is move fast.
+And as a result, in other companies, there are monthly or quarterly releases.
+At Meta, we deploy code every three hours.
+So if you just committed today, if you just coded and committed and pushed.
+And daily push goes to my Facebook and Instagram production.
+Which as an intern, it's crazy.
+I mean, you're writing code daily on Facebook and Instagram.
+And you can see the result after going home.
+You coded in the morning, came home, oh, you got a change.
+My platform team is on the back end side, but the code is pushed to production.
+Yeah.
+Brilliant.
+It is very insane.
+Yeah.
+So so far we've learned that you did your first internship in India.
+After India, you did your first internship in NCIM.
+We forgot about that.
+Yeah.
+So, so when I came back for my second year in August, then I was actually
+serious about internships or I was like just ruthlessly applying everywhere.
+I didn't know what the right way of applying internship was, but I was very
+serious that I had to get a job experience.
+So I was doing the regular stuff like going to career fair, going to
+LinkedIn, talking to people, making resumes.
+All the, I mean, whatever people do, just do conventional stuff.
+As a result, NCR is like one of the top tech companies in Atlanta.
+Harnoor worked there for two years, got his first promotion there.
+Big, big time.
+Um, so yeah, I mean, they hire a lot from Georgia Tech.
+So I did the career fair, then I dropped my resume.
+Um, then they invite me for an interview and I just got it.
+Yeah.
+So I think for big tech companies, experience matters.
+Like, let's take the first year as well, in your opinion.
+Like you did your internship in NCR, Intel, Intel, NCR, and then finally
+your resume got shortlisted.
+Yeah.
+Was the shortlist happening before or not?
+Without experience?
+It was happening before as well.
+Wow.
+So, uh, I...
+Because Georgia Tech, Georgia Tech's brand power.
+So Georgia Tech's brand power is big and in the third year, I was
+sort of more serious, so, um, that year I got interviews from everywhere.
+So like Facebook, Microsoft, Apple, you know, but I didn't crack any of them
+because I thought that basically, the crux of everything is one, that you
+have to do two things to get a big tech job.
+Number one is getting the interview.
+Number two is passing the interview.
+This sounds very simple, common man, that everyone knows this.
+But literally, you have to do these two things and for these two things,
+a different skill set is required.
+I agree, a lot of things are luck based for the first time.
+Um, if you know someone, then referral does play a role.
+Um, if you go to a brand school, a good brand name school, then that does matter.
+Um, on top of that, um, sort of, you know, if a recruiter reaches out to you,
+then that also matters.
+So in the first case, you have a lot of options, but luck plays a
+little more role, no question.
+Talking about the second stage, second stage is passing the interview.
+In that, there is no luck.
+Um, even companies are now moving to blind hiring, meaning basically they
+don't want to reveal the identity of the candidate.
+Um, it's just, they purely test your skills.
+So after that, it's just totally, um, you know, for example, for big tech
+companies, it's just technical algorithmic interviews, at least
+for, uh, new grad and interns.
+Yeah, they don't design the system.
+It's just algorithms for new grad.
+I had a system design because I was going for a senior position.
+But only the same algorithm set,
+whether you are applying, whether he is applying,
+whether I am applying, anyone applying.
+Same questions, similar questions, similar concepts.
+And it's a fair game.
+It's a fair game.
+And, I mean, a lot of people say that hiring is broken in this way.
+It shouldn't be done.
+I mean, the algorithm focuses on software, the engineers don't focus on it.
+But, I mean, at the end of the day, you have to see it this way.
+It works.
+Google, Facebook, whatever successful companies hire like this.
+And they are successful.
+Okay, so, this works, right?
+Absolutely.
+If you might not like it.
+And, two components of cracking technical interviews are very important.
+One is knowing the problem.
+Second is communicating the problem.
+The importance of communication is very high.
+But, it's easy to learn it.
+But, we should not overlook the importance of communication.
+For example, in my Facebook interview,
+you have to talk through every line of code you are writing in the interview.
+Wow!
+Like, talk through each line.
+If you, sort of, without talking,
+you will code up, you won't get an offer.
+An example could be our UC Berkeley challenge, we coded it.
+He was showing how to be an interviewer and an interviewee.
+Yeah.
+He was so smart and spoon-feeding students.
+If you watch that video, you can get an idea how to walk through.
+And totally, if you are giving an initial idea,
+you have to realize that interview is always a two-way thing.
+Okay?
+If you give an initial signal that I am here to, you know, fight for the question.
+Interviewer will be more than supportive in most cases.
+Obviously, some interviewers are not that good.
+But, in most of the cases, they will be more than supportive.
+And one thing I will always tell you is that
+the recruiters and interviewers are always on your side.
+Okay?
+For example, recruiters have to hit their targets in every quarter, every half.
+And if you are their candidate and you are higher,
+then they reach their target close.
+So, they are on your side.
+Moreover, the interviewer also wants to give positive feedback.
+He wants to take more interviews to those who get offers, not rejects.
+So, always remember they are on your side.
+But you also have to put in the effort.
+Absolutely. They always give hints.
+If you are not able to do it, you can ask for a hint from them.
+Yeah, exactly.
+As long as you are able to do it with a few hints, with a few spoonfeeds,
+that is also good enough in some cases.
+And basically, the big tech companies like Silicon Valley or in general world,
+their sort of general principle regarding engineering is that
+they can miss out on some smart people,
+but they will not take any non-smart person.
+Okay?
+So, that's why people say that hiring is broken.
+Some smart people are not able to reach.
+But their foundation is that
+we don't want to hire any non-smart people who are unskilled
+because it will take a lot of time to fire them and manage them.
+True. Absolutely.
+So, in this case, they miss out on a lot of smart people.
+No doubt about it.
+That is totally correct.
+And another point is about interview rounds.
+You have done a lot of lead code.
+You didn't hear about blind 75.
+That's how students start.
+Yeah.
+So, how many questions did you ask
+and how long it took you to be at the level that
+yes, I will give a 4.
+There is a sort of principle of lead code,
+of technical interviews that you have to memorize patterns.
+Okay?
+So, there is a bit of cramming in this?
+There is cramming but there is also a sort of understanding.
+For example, what people do is that
+we will pick up a data structure, for example strings
+and we will start questioning the strings.
+But if you look at the strings,
+there are so many patterns.
+For example, sliding window, two pointers.
+So, there are many patterns in the string.
+If you memorize the patterns,
+then you have already done 60-70% of the questions.
+There are tries in the string.
+There are tries in the string too.
+There are many postfix.
+Oh, prefix sum.
+Prefix sum is another array technique that is very famous.
+In fact, in the last recruiting season,
+almost 30% of my questions were prefix sum.
+Okay?
+It's a sort of simple array technique but
+when we do questions, we look at it in the array tag
+and we never understand the pattern.
+Same if you look at other data structures.
+For example, matrices.
+If you take them as 2D arrays,
+you will just think of them as a data structure.
+But if you match the patterns in it,
+for example, DFS, BFS.
+Graphs.
+Yeah, graph algorithms.
+So, you will be better.
+Yeah.
+So, yeah.
+And I mean,
+once you get pattern matching,
+then you just need a little luck.
+Then you can crack pretty much any company.
+Absolutely.
+And another factor I have seen is that
+the most frequent asked questions are written on the lead code.
+So, you should know that this company
+asks more questions about this category.
+They ask less questions.
+If you play a game of probability,
+that can also make a difference.
+Totally.
+For example,
+Facebook had told me directly before the interview in the email
+that we will not ask DP.
+Which is such a big relief.
+Wow.
+But not being asked DP at such a company
+means that you will definitely get graph or backtracking.
+Because there are hard algorithms.
+So, you need to go hard.
+I mean, you have to read it more.
+Yeah, for example,
+Google on the other hand,
+will ask about DP.
+DP will most likely ask,
+but they will definitely ask about graphs.
+100%.
+They will ask about graphs 100%.
+For example, other companies
+they won't ask DP or graphs,
+but they will ask strings and arrays
+in which you should know tricks and patterns.
+If you don't know, you would not crack it.
+Okay.
+And at the end of the day, you have to be careful
+that you have to be a strong engineer.
+Okay.
+If you are good at lead code
+and communication is good,
+you should be a generally strong engineer
+that you should cross a threshold.
+If you are good at it, you will make it.
+If not, then you need to work.
+Yes.
+But I will say at the end of the day,
+I didn't get my first Facebook attempt.
+I got rejected after the first round
+after a very hard backtracking question.
+But the best thing about these companies is
+you can give interviews after 6 months to 1 year
+and you can boomerang back,
+which means like if you leave the company once,
+you can come back.
+Okay.
+So you can switch very easily.
+This is a big advantage of the software industry.
+Yes.
+It's not like once the IIT vapor goes,
+you can't see it for a year later.
+You can interview every 6 months,
+Amazon every 6 months,
+Facebook every 6 months,
+Google every 1 year,
+Microsoft every 6 months.
+So just think that once the opportunity goes,
+we will give it again.
+Just keep preparing.
+I am telling you, my first Facebook interview was,
+I got humiliated.
+I mean, I and the interviewer were like,
+when will it end?
+Okay, both of us were like this.
+And it's okay, you don't have to be disappointed.
+You just mean,
+okay, we will do it next time.
+And there is a little luck role too.
+People who discount that are sort of underplaying it.
+But mostly it's your preparation
+and if you can apply the right tricks.
+And for internships, there are only 2 rounds, right?
+For Facebook, yes.
+There are total 2 rounds.
+For full time, 4 to 5.
+For full time, it depends on what level you are going.
+For example, if you are going for a junior,
+there will be more coding,
+less behavioral system design.
+If you are going for a senior role,
+less coding, more system design.
+My turn.
+So, it depends.
+When we go to college,
+we think about the 3rd year of internships.
+So we don't have to do that.
+We have to think about work experience from the first day.
+For example, I will graduate with 5 internships.
+Intel, 2 at NCR,
+and then Salesforce and then Meta.
+So, I will say, do more internships.
+Work experience will help you a lot.
+If you do more interns and go full time,
+you will be ahead of a lot of full time hires.
+So, do focus on that.
+And even though there is a trend in India
+that internships are usually done after 3rd year,
+if you are good in lead code
+or if you sort of put your head
+that I have to take it in 1st year,
+you will get it.
+Perfect.
+Thank you so much, Areyan.
+It was very informative.
+All the best everyone.
+Thank you so much.
+Keep applying and keep interviewing.
+Thank you so much.

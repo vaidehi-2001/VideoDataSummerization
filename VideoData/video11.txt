@@ -1,0 +1,110 @@
+Hi guys, it's Chi here. So I'm on Google Seattle campus today, and I'm going to ask people questions like
+What do they do at Google and how much they make and how do they get into Google? Let's find out
+Our first question here is gonna be what's your job title at Google and what product do you work on currently?
+Right, I am a software engineer here. So that's my title. I work on infrastructure side of things
+So mostly on cloud computing
+I guess in general terms and how many years of experience do you have at Google in tech in general too?
+Yeah at Google I've been here for like a couple of years now before that I worked at Microsoft
+so like totally I've been there for like seven years so for like two years and
+Engineer at Google like what can people expect? What's the range?
+Depends upon the level that you have been hired at so like a for L5
+So and also the area in which you're hired at so I think levels start if I will give you the exact numbers
+Based on area and the level so what do you say like around 200 K like 250 for
+Yeah, cool, and that is TC's right total compensation
+And then what's your what would be your advice for people who want to make it to Google?
+Yeah for software engineers in general. I think the interview process is pretty straightforward
+It's mostly just general software engineering skills like fundamentals data sectors algorithms and like system design interviews based upon the level that you interview in
+So nothing specific to Google per se like the usual industry standards is all I would recommend
+What do you do at Google and what kind of product you're working on? Okay. Yeah, I'm a I'm a front-end engineer
+I'm working on web contacts, which is
+Part of core is like contacts.google.com and what kind of advice do you have for people who?
+Want to make it to Google? I guess I can only really talk about my own experience
+but I would say like for me I did do I did do a lot of coding questions and then like
+Part of part of it as well was just sort of doing like my personal projects
+Like and just kind of getting that experience as well. I think helped a lot first personal project
+I recommend would be like building a personal website
+that's just like a simple project, but is
+kind of
+You're gonna have to learn to like build it
+Yeah
+one other one other thought is like doing coding questions like on the code like by yourself
+It's just sitting down is very different from like interviewing in person
+You're probably gonna want to have that in like, you know real settings or practices
+Very last one and of course, like you don't have to answer if you don't want so what is your total com for this position?
+Right now it's around 150. It includes like the base and the bonus as well. Yeah, that's right. Yeah
+Yeah, I also just joined I I'm a little over a year in. Hi
+So if you could introduce yourself, like what do you do at Google and what products you working on as well?
+So, my name is Christy. I work at Google in Seattle, and I'm a software engineer here working on the cloud
+Department what kind of career advice do you have for people who?
+Aspire to work here. So career advice for people aspiring to come work at Google. I think
+It's most interesting if you have some project or something you're really passionate about
+It's not just about getting into a fang or manga company
+it's more about what you want to do to help make this world better and
+Be in a place where you're working with the top tier intelligent people like every day
+I think like wow everyone here is so smart
+And if you have something you want to do that will better this world
+Then Google is a great place to do it because you have incredibly smart people a lot of resources
+You can actually get a lot of amazing things done
+Yeah, so like in terms of the interview, how do you prepare for the interview to Google because I heard is really difficult
+So the interview process quite standard across fang companies you have to do something called leak coding
+It's where you do kind of these problem solve logic puzzles in code
+So it's called data structures and algorithms. You just have to crunch through it
+It's very much like studying for the SAT you do it you learn it you get better
+Yeah, I said these are hard
+Interviews are hard. I'll get a good friend to do them together
+It's really more fun that way and do mock interviews because it's one thing to be good at solving the logic problem
+But the more important thing that you do at the interview is discuss with people
+Yeah on how to solve an ambiguous question
+They want to know how you think in a situation where you don't know all the
+variables and
+How you solve things with different input from other people because that's ultimately what you're doing in the workplace
+So the first question is what do you do at Google? What's your job title and what product you work on?
+I'm a software engineer in the cloud and then what advice you have for people who wanted to work at Google
+dive deep
+Be curious about technology and always learning
+I think those will be the good qualities in order to like prepare for the interview itself, right?
+Like how do you actually prepare for the interview?
+I think you know go back to the college
+Algorithm course will be very helpful and you know
+I'm pretty sure they're like online teachers about the rare and photo interview and go through those will be also helpful
+And I think we also have like mock interview
+Services provided by the recruiter and take adventures those will be very helpful as well
+Gotcha and how many years of experience do you have at Google or in tech in general?
+Ten years and
+Do you have any like crazy story about like when you or someone you know?
+Broke something. Oh
+Yeah from my previous employer. Yes
+I was in Amazon before and then you know
+Someone from the team actually then accidentally made a change and then that broke popular internet back in 2016
+I think holy moly if you could quickly introduce what do you do at Google and what product you working on?
+I'm Jim Fay. I
+joined Google five years ago. I used to
+Work in Microsoft and then yeah
+And then jump to Google
+I
+Were in the same team we're working in cloud platform. Yeah, this is Ryan. I joined Google a year and a half ago. I
+Joined also jump from Microsoft actually
+Yeah
+Yeah from Microsoft. Yeah, I
+Right now is work in the same team with stream fade in
+GCP cloud platform service infrastructure
+Yeah, it's quite fun working at Google I would say like how I got into tech I was majoring in computer science and
+I sort of into computer stuff and I actually work at some other company like small company before
+Microsoft and Google and then I
+sort of want to see what the big company how the big company operates and
+how they work and come up with like
+products so I interviewed a couple of times with
+Microsoft Amazon Facebook Google actually interview twice together and up getting this job. So
+With Google. Yeah, what is your total compensation for this position?
+Not not quite sure but it's higher than Microsoft. I'm not like a senior engineer
+but right now like I say Google pays quite good for
+Like engineers at this level. Yeah, and any like career advice you have for people who?
+Aspire to make it to Google. I mean it depends on which level you are applying for
+So see if you are applying for junior
+software
+software engineer positions
+You need to prepare for like you say coding questions, but I think for higher level they
+that the coding things is
+Less and you don't have to be a computer science background, but most of them
+Engineers, I think computer background. Yeah, but I know I do know some of them didn't
+Thank you so much for the advice.

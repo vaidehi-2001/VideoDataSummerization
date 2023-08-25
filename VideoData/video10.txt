@@ -1,0 +1,66 @@
+Hey everyone, welcome back to my channel.
+Today we're going to be talking about the experience aspect of getting a job in the Salesforce ecosystem.
+Experience is one of those really, really tricky things where it's kind of like chicken and egg, which came first, the chicken or the egg.
+It's like you can't really get experience without a job, but you can't really get a job without experience.
+And when you're starting out, that can be really, really difficult and you can not really know how to start, where to go, and you can get really frustrated.
+I know I was really frustrated when I first started out and I was trying to get a job and I had no experience and no way to get experience.
+But what I'm here to do today is tell you about five different ways that you can get experience that will help you with your resume and get your journey started on the Salesforce ecosystem.
+All right, and with everything that I'm going to talk about today, I want to make it clear that I think certifications go really well with it.
+And that you should intertwine these tips with getting Salesforce certifications.
+First one is Trailhead.
+So if you're listening to me right now, you probably know what Trailhead is.
+Trailhead is Salesforce's free learning platform where you can create a test environment and you can build stuff and create really, really awesome things.
+You can get badges.
+And what I think is really, really cool to help you get experience is they take business problems or problems that they found in the business or their customers face.
+And they've translated it into little learning modules or projects that you can work on.
+So these come in, of course, modules and projects as well as super badges.
+And this last one I think is really important because they do take a business project as a whole and you go from end to end creating this business solution.
+I wouldn't say that super badges aren't necessarily a substitute for certifications.
+But in some cases, they are the best thing that you have.
+Like one topic specifically off the top of my head that I know of are there is the billing super badge.
+There isn't a billing certification right now.
+There is one coming out or so I hear.
+And a super badge can be used in the way of a certification until they do release their certification for billing.
+All right. The second way is volunteering.
+And a lot of people recommend that you do volunteering to get experience.
+You can get references for your resume and for future employers to call and see what kind of work you did and validate your skills on the Salesforce platform.
+And there are a few different websites that you can use to look for a volunteering position.
+I've used volunteer much before.
+I haven't personally been matched with a volunteer organization, but I do know lots of people on the ecosystem have used that website to find volunteering positions.
+They also have to go to an organization to convince them that they should use Salesforce and have you consult on their platform.
+The third way that I suggest you get experience is by building out an app to release out on the app exchange that will solve a solution.
+It's one of the best ways to be able to prove that you have experience on the platform other than having previous employers.
+I think that it's like if you can solve someone's problem that they've been having within Salesforce and you can show it by having reviews or having or having your future employer even look at your app on the app exchange and understand kind of how this works.
+What problem you're solving can go a really, really long way.
+One example of this is that I heard on a podcast actually was a woman who solved a communication problem with Salesforce between her husband who was deployed in the military and all the other spouses and family members that were back at home.
+And I'll link to the podcast because it's really, really cool.
+And she built this really custom app that helps solve their communication issues while they were deployed.
+So yeah, go ahead and check that down below.
+Listen to that podcast.
+Number four is consulting.
+And this one, I personally, this is how I got my first experience, was through consulting.
+I created EC Consulting, which is now Call Cloud Consulting.
+I was able to connect with a few different companies that only needed a few small things done on the Salesforce platform like reporting and changing up record types and changing up fields and page layouts.
+And I was able to work for them while putting experience on my resume.
+So you can find clients a few different ways.
+Personally, the big two freelancing websites, which are Upwork and Fiverr, which I will link down below.
+You can also sometimes find people on LinkedIn that are looking for just a small amount of work being done.
+Also, another great way to find consulting is by subcontracting.
+So you would find an independent consultant and maybe reach out to them and say, see if they need a little bit of help with their current workload.
+All right. And the fifth and final way to get experience on the Salesforce platform is to create educational content, which is what I do here.
+So you can do this either through YouTube or you could create a blog or you could write an ebook.
+There are a bunch of different ways to help others learn on the Salesforce platform.
+What I've noticed is that people really like to hire people that they already know they're already familiar with.
+They get to know their personality a little bit and what kind of things they are knowledgeable about.
+Not only will creating content be really, really great for you networking wise,
+you can meet some really, really awesome people who can introduce you to other people and really grow your network and land a job that you are really wanting to go for.
+And a bonus one for you guys, I would say, is attending Salesforce events.
+So attending Salesforce Saturdays in your area.
+A lot of them are remote right now.
+So it's a great way to meet people in the ecosystem without having to go anywhere because they're all on Zoom.
+With that being said, thank you for joining me.
+Be sure and comment down below if you have any other suggestions on ways to get experience within the Salesforce ecosystem.
+Be sure to like and subscribe.
+It really helps out my channel.
+It helps me create more helpful videos like this.
+And I'll catch you guys in the next one.

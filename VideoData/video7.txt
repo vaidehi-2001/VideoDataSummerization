@@ -1,0 +1,121 @@
+Hey everyone, I welcome you all to the live session on how to become a Salesforce business
+analyst.
+This session is conducted by an expert having more than 15 plus years of industry experience.
+So before we move on with a live session, please subscribe to our channel.
+And also if you want upcoming updates, please hit the bell icon and also leave a like if
+you enjoy our content.
+Hello everybody.
+In this video, we will be discussing about Salesforce business analyst and associated
+topics.
+This is the agenda for today's session and we will be discussing about Salesforce business
+analyst, how to become one, roles and responsibilities, skills required and an overview of the Salesforce
+software.
+We will conclude by gathering insights to various courses in this field.
+Introduction to Salesforce business analyst.
+So what is a Salesforce business analyst?
+A Salesforce business analyst is one of the business analysts working on the customer
+relationship.
+These professionals work with IT professionals to find technical solutions to business problems.
+They are the mediators between the IT professionals and stakeholders and are accountable to the
+customer queries and solving their problems.
+They do so by connecting the end user to the respective departments.
+Salesforce business analysts are also responsible for end user acceptance.
+Let's move on to the operations of a Salesforce business analyst.
+What does a Salesforce business analyst do?
+A Salesforce business analyst is a mediator between the stakeholders or assembly and the
+IT professionals.
+Stakeholders put forward the business problems faced by them to the Salesforce business analyst
+and they discuss the issue with IT professionals and come up with a technical solution.
+And the Salesforce business analysts make sure that these solutions are implemented
+accordingly.
+These professionals communicate with people from different departments and the customers
+to pass on required information.
+These professionals communicate with the stakeholders and inquire about various aspects of the projects.
+They file documents of the research done based on the stakeholder learnings.
+Then they analyze and review requirements and implement solutions accordingly.
+The final process includes testing the solutions designed.
+Also Salesforce business analysts ensure that business automation and data management are
+smooth and well established.
+Let's get to know how to become a Salesforce business analyst.
+The minimum qualification required is the bachelor's degree.
+A bachelor's degree in a field related to data science and IT is preferable.
+Certifications in various products and services of Salesforce software such as cloud services
+and administrator and app builder are also a must.
+Along with these requirements, the following acquaintances are needed to become a professional
+in Salesforce business analysis.
+One should be able to get over with stakeholder management, data analysis fundamentals and
+business communication.
+Along with this, one should be experienced in using, designing and charting out the rule
+principles, work processes and security controls on Salesforce or similar CRM platforms.
+Also, one should be experienced in handling multiple undertakings while working in a collective
+group.
+One should be well versed with platforms such as Microsoft Word, PowerPoint, Excel, Visio
+and Project Experienced in executing the platform of Salesforce CRM using software development
+lifecycle.
+Listed here are the roles and responsibilities of a Salesforce business analyst.
+Connect with stakeholders and business partners to discuss the customer requirements and related
+problems.
+Connect to the team of developers for discussion on the technical matters of the Salesforce
+software.
+Direct the authorities and help them by providing insights to devise a plan of action.
+Should make sure that there is a clear understanding of concepts amongst the personnel involved.
+Train the other executives in the Salesforce team by providing them with suitable and practical
+training.
+Explain to the Salesforce team the various operations of the Salesforce in different
+fields.
+Contain security of the information acquired from the software by working on the visibility
+of the tools and platforms.
+Create multiple dashboards to cater to the needs of the Salesforce users by taking into
+consideration the business functionalities and requirements.
+Now let's see what are the skills required to become a Salesforce business analyst.
+High-level analytical and problem-solving skills, strong ability to engage and influence
+stakeholders at any instance, expertise and time management and should be able to prioritize
+tasks, use initiative and be self-directed to meet deadlines, excellent interpersonal
+and communication skills.
+Just a quick info guys, Intellipaat provides Salesforce online training mentored by industry
+experts.
+The course link is given in the description below.
+Now let's continue with the session.
+Superior organization skills with accuracy of tasks, eager to learn and committed to
+developing skills and knowledge, self-motivated and able to work confidently, diplomatic with
+an ability to work with a flexible approach in a changing environment.
+Now let's proceed to know about the Salesforce software.
+Salesforce CRM is a cloud-based software that helps organizations to effectively streamline
+their sales and marketing operations.
+This is a CRM software that is customer relationship management software used by Salesforce business
+analysts.
+The various cloud features offered by Salesforce are Salesforce sales cloud, commerce cloud,
+app cloud, marketing cloud, analytics cloud, service cloud and the community cloud.
+Other features of Salesforce are force.com.
+It allows admins and developers to create websites and applications into the main application.
+App exchange, an online application marketplace for third-party applications that run on force.com
+platform.
+Heroku enterprise gives developers the flexibility to create apps using preferred tools.
+Salesforce thunder, a big data and rules processing engine designed to analyze events and take
+personalized actions.
+Salesforce sandbox allows developers to test ideas in a safe and isolated environment.
+In this slide, the salary trends in Salesforce business analysts vary with countries as shown
+in this figure.
+In the United States, salary of a Salesforce business analyst ranges from 100,000 to 130,000
+USD.
+In the United Kingdom, it ranges from 40,000 to 65,000 GBP.
+In Germany, it ranges from 45,000 to 600,000 EUR.
+In France, it ranges from 35,000 to 65,000 EUR.
+Whereas in Australia, it ranges from 100,000 to 150,000 AUD.
+Average Salesforce business analyst salary in India is around 21.1 lakhs for employees
+with experience between 5 years to 10 years.
+Business analyst salary at Salesforce ranges between 14 lakhs to 32 lakhs.
+Let's conclude by discussing about the top prospects of Salesforce business analysts.
+As discussed earlier, Salesforce business analysts will have a great career ahead given
+that they are qualified and equipped with the required skills.
+There are various benefits in being a Salesforce business analyst, which include overall enhanced
+product efficiency, optimized organization processes, outstanding customer experience
+and greater earnings.
+Just a quick info guys, Intellipaat provides Salesforce online training mentored by industry
+experts.
+The course link is given in the description below.
+So guys, we have come to the end of our session.
+I hope you all enjoyed it.
+For any questions that you have related to coding, you can mention it in the comment
+sections below.
+So thank you so much for attending this session and meet you in another session.

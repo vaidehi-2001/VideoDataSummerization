@@ -1,0 +1,56 @@
+Hello and welcome everyone. If you are new to this channel then my name is Amit Patel
+and you are watching Musings with Software Engineers. If you are new then subscribe to
+this channel because on this channel I share ideas, insights, tools and tactics that can help you grow
+in the software industry. So if you want to grow really really fast in the software industry then
+subscribe to this channel now and press the bell icon so that you will know when I go live on this
+channel. Hi Mayank how are you? Sir the future of Salesforce. Mayank's future of Salesforce is very
+very good. The reason is this. So Salesforce is a CRM application. Salesforce started a CRM
+application. But Salesforce is a pioneer in SaaS programming. Salesforce is the first company which
+started software as a service. When all the companies were working on desktop development
+or server-based development, server-based application development, Salesforce decided
+that we are going to build a CRM application which will work on the internet. This is as early as I
+think 1995 or 1998 or 99. I don't know the exact year. I don't have the exact timing of this but
+this was as back as that time. And they said that our software will be such, our CRM software will be
+such that you will not have to download it and install it on any machine. You can directly use
+it from the internet. If you have an internet connection our software will be useful from the
+internet. So they are a pioneer in SaaS application. They are also a pioneer in cloud-based application
+because any SaaS application is a cloud-based application. All the cloud-based applications
+that you see today, they use a Salesforce kind of template. They use the similar thought process,
+similar technology, even sometimes the pricing model, the recurring pricing model that people
+are using that they use from Salesforce. So Salesforce is way ahead in its league as a SaaS
+application developer. Now if you see the CRM market, the big players in CRM are Salesforce,
+Microsoft Dynamics and there are a few more. There is SAP of course but SAP is used more in
+the manufacturing companies than on the CRM side. But there are a few CRM applications.
+Zoho is one CRM application but Salesforce even within this pack is the leading company in CRM.
+If you become an engineer who learns Salesforce, who learns building application on Salesforce,
+Salesforce is also a tool where you can extend the Salesforce application by writing your own
+code and building an extension to Salesforce and that is what Salesforce is known for. So you will
+have the CRM application. You will have a lot of features and modules which are automatically
+given by the CRM bit but beyond that you can extend this application. You can extend this
+application to any level. So if an engineer becomes a Salesforce expert, so as a software engineer
+you have to develop your prowess and what do you mean by prowess is expertise and what is an
+expertise? Expertise is in specialization. Now you are not just a software engineer,
+now you are a software engineer with knowledge of Salesforce. Now you understand the Salesforce
+CRM application really well. You are not just able to use the features of CRM application
+but you are able to extend the features of CRM application. That will give you an advantage
+over a lot of other engineers and because Salesforce is a leading company in CRM,
+you will never be out of job for your next 30-40 years because Salesforce will keep developing.
+So now they are using artificial intelligence and machine learning within their code. They will use
+all the new technology, data science, they will be using, they will use big data, all these technologies
+they will incorporate within their CRM application to help their industry, the CRM industry,
+with whatever new technologies are coming in. So even if you are a Salesforce engineer,
+you can also do AI and ML within that Salesforce application. So the whole point is,
+I am trying to make is the future of a software engineer who is working on Salesforce is really
+good and if you are on that, specialize yourself, become an expert in that, so good that automatically
+then you will start differentiating your salary from other engineers. Because I see a lot of
+engineers who feel that we should not learn these tools. See this is a tool, Salesforce is a tool
+which has been developed for the CRM industry. It's a tool for a CRM industry and people think
+we should not learn about these tools. These tools are not useful, I should just be a programmer.
+But being a programmer is just a mason's work. Being a programmer is the lowest level of work
+you can be at if you just know programming. But when you start improving your programming by
+being able to design something, start improving your programming by learning various tools that
+are there in the market which are leading tools. Salesforce is one leading tool, another is Microsoft
+Dynamics which is also a leading CRM application developer and Microsoft is a known name. So they
+are also into this but they are both in competition but Salesforce is ahead of Microsoft as far as CRM
+industry is concerned. So it's a very good future if you are building your expertise on Salesforce.
+Do a specialization and this is a kind of specialization.

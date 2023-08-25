@@ -1,0 +1,110 @@
+Hey, today I'll be talking about how I got top 5 European jobs based on London, Paris,
+Munich, Berlin and Amsterdam.
+So stay till the end of the video to know all the details about it and let's get started.
+So I have received software engineering offers from different companies.
+So the first one is AdanaMix where the position was based on Munich, then Delivery Hero where
+the position is based on Berlin, then FreeNow where the position is based on Paris and Booking.com
+where the position is based on beautiful city called Amsterdam and then finally Facebook
+where the position is based on London.
+So let's roll back to the start of 2021 when I have started my software engineering career
+search because I wanted to move to Europe and I wanted to look for top software engineering
+jobs from Europe and I was based in India so I had another requirement of getting the visa
+and all the relocation benefits so I need to filter out all the companies based on that.
+There was two major ways where I targeted my applications.
+So the first one was referral based application and the second one was directly go to the company
+website and apply there.
+So I think most of the time when I got interview calls it was 80% of the time where I have gone
+to the company website and then applied over there and around 20% of time in the big giants
+where I have taken a referral and then got a call from there.
+So let's talk about start of 2021 around March where I started getting interview calls from
+big tech companies in Europe which included Spotify, then Delivery Hero, Zalando, Personio,
+Babel, Intercom, Google, Amazon and a lot of other startup companies.
+If you want the whole list then you can go down to the link below and check all of them out.
+So all of them all of the companies that I have mentioned they do offer relocation benefits which
+includes visa sponsorship and other stuff as of the time when I interviewed there.
+So now let's talk about the whole framework of the interviews of these companies.
+So I can divide these companies into two major parts where the first part consists of startups
+for example like Zalando and then Babel, Intercom all the smaller companies and then the other
+part consists of the bigger companies where it comes like Spotify, Microsoft, Google, Amazon,
+Facebook.
+So there's a major difference between interviewing in the smaller startup with the comparison of
+these bigger startups.
+So the main difference is the architecture of the interviews.
+So for example if you're interviewing in the smaller tech companies in the smaller startups
+they kind of go in depth in your specific knowledge sets and where compared to if you
+go to a bigger company for example the giant techs Facebook which is renamed as Meta right now.
+It is more likely that you will get a set of software engineering algorithm based interviews
+then a set of system design and architecture based interviews and then a set of behavioral
+interviews.
+So this framework is kind of fixed for Amazon, Facebook which is Meta right now, Microsoft
+and Spotify and all those bigger tech giants and for smaller ones there can be multiple rounds.
+They can go into bit technical in your current role for example if you are a Java guy or if
+you're someone who works on Node.js there could be specific round only concentrated on Node.js.
+There could be a specific round which can be only concentrated on Java or in-depth
+knowledge of Java.
+So these are the main differences.
+So let me just draw down abstract view of how the interviews were for me.
+So for smaller companies the interview process started with HR catch up where we talked about
+our common interests where I am interested to go in in the future and what are my technical
+skills why I am interested in the specific company and once I cleared that there was
+an assignment round where I need to build a small feature and code it up and send it
+to a reviewer.
+If you passed then you go to the next round which will be a set of interviews.
+This can also be set at onsites.
+So in these interviews what you'll generally do is go through a set of algorithm rounds
+maybe a set of in-depth technical discussions and more like a tech behavioral rounds and
+purely behavioral rounds.
+So these are the main things that you'll have in smaller startup companies but in
+bigger tech companies for example like Facebook and other companies you will have very defined
+interview process where you will go to for example I can talk about Amazon, Google and
+Facebook where I have interviewed.
+So there was specific algorithm based interviews then few of them were system design based
+interviews and then few of them are purely tech behavioral and behavioral based interviews.
+So these are all the interview rounds that I have kind of faced.
+If you want more details about this do let me know in the comment section and I'll make
+a separate video explaining each of the companies interview sets and my experiences.
+Now let's talk about the fun part.
+So when you clear all the interviews then you go to a negotiation phase where you negotiate
+your compensation details and salary details to HR and you get the offer.
+So I'll be creating another video explaining the process of negotiation and how you can
+negotiate properly so that you get what you want and what you deserve.
+Now it's time to talk about the preparation.
+So how did I prepare to get all these jobs.
+So I have started my preparation a bit before.
+So I've started my preparation on 2020 where I was a complete noob.
+So I started with the basics of algorithms the basics of data structures.
+I revised all the concepts and I started with lead code to start coding.
+Let me tell you lead code is one of my favorite platform to drill down algorithm and data
+structure questions.
+Please make sure you brush up all your data structure and algorithm concepts just to make
+your fundamentals clear because that is very important and then you can jump on this coding
+platforms for example hacker rank you can go to lead code and you can go to hacker earth
+and you can go to all these websites and then practice your coding skills.
+So you can start with easy problems on all those sites and they generally will be indicated
+that whether a problem is easy or hard or medium and then you can gradually go up to
+medium and hard and all those super hard questions.
+So you have the practice platform you have your algorithm and data structure brushed up.
+All you need is to give some dedicated time and some fresh mind to kind of work on all
+those problems.
+The next and the tricky part is system design interviews.
+Now there is also a great set of resources out there for system design interviews.
+What you need to do is you need to again clear your fundamentals and the basics of system
+design.
+There is a system design primer in github where you can get all the links get all the
+syllabus of the system design.
+I know there is no syllabus because this whole thing is huge and there is unlimited learning
+that is possible but still you'll get an outline of what to read and where to start off.
+So I think that is a very good resource.
+Now let's go to the last part where you take interviews are done and now we are jumping
+into the behavioral interviews.
+Now these interviews can be quite tricky because these interviews are kind of related to your
+past experience where your interviewer could ask you about talk about a time when you did
+this or talk about a time when you face this.
+You have to prepare the answer for that before the hand with your past experience.
+Then this can be tricky and if you want me to make a video about that also let me know
+in the comment section.
+So if you want me to talk more about any specific details or any specific part of this then
+let me know in the comment section and I'll be happy to do that.
+So do subscribe to the channel for more info about interviews,
+Europe, jobs and see you guys in the next video.
+Bye bye.

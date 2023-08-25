@@ -1,0 +1,90 @@
+Hi everyone, I hope you all are doing great in your life.
+So in this video I will tell you how you can become a salesforce developer in just 3 months
+and that too with the free resources.
+Only the certification cost is little bit high but that is not required by every single
+company that is asking for a salesforce developer role.
+So no need to worry over that if you are a complete fresher and if you are someone who
+is working somewhere then you can easily afford that certification cost.
+So yeah, I would say that if you are a complete fresher or someone who is working in a service
+based company and stuck in a worst kind of project that is not making you move anywhere
+then I would definitely recommend you to switch to salesforce and start learning it.
+So I hope you guys watch this video till the end because I have listed every single thing
+that is required to become a salesforce developer like how you can apply, where you can find
+the job search and where you can study those skills, where you can practice and where you
+can apply for certification.
+So yeah, this video is for you.
+So let's just talk about salesforce.
+Salesforce is number one CRM platform.
+So what is CRM?
+CRM is customer relationship management.
+So salesforce CRM allows the businesses to automate, organize and synchronize every feed
+of their customer and businesses can be small or large, it can be anything.
+In simple words, I'd say salesforce is a platform used by businesses to enhance the customer
+satisfaction.
+So now that you got some idea about salesforce, so basically there is a lot of demand of salesforce
+developer role, but there are very few people who are skilled into this particular job post.
+So if you're looking for a job on LinkedIn or Indie, I would definitely recommend you
+to search for salesforce developer role and you'd see that in one month there are only
+five applicants of one particular jobs.
+So it is very easy to grab that job offer for a complete fresher even.
+You can learn salesforce from trailhead.com where you can find all the modules that are
+required to learn.
+So I would prefer you to start from salesforce admin because it's a basic platform of salesforce
+where you need to learn the admin skills, which are the basic functionalities of salesforce.
+So start with the salesforce admin modules, then complete the salesforce development module.
+So if you are working in IT sector, it won't require more than 15 to 20 days for you to
+learn salesforce admin.
+Then go for the salesforce developer, which will require you like 1.5 months and that
+is one single platform wherein you can learn all the skills.
+So I think that would be great for you.
+And if you're a complete fresher, it would take one month for salesforce admin and two
+to three months for salesforce developer.
+And if you find those modules, start learning them.
+I can link the modules in description box below.
+Even the trailhead platform is linked in the description box below.
+So you can completely check that out.
+And one more thing that you need to do is create an account on salesforce.com.
+Like you can create an account for free there and check all the functionalities such as
+record type, validation rules and creating a field, how you can check the object manager.
+So all of these things that you can do on the salesforce.com platform.
+So learning that you can do from salesforce trailhead and the thing that you can practice
+it on is on the salesforce.com site.
+So I hope I didn't confuse you guys.
+So I just there's two things are there, the trailhead.com and the salesforce.com.
+So all the links are in the description box below.
+And if you're planning for certification in salesforce, then you need to go to webassessor.com
+where you can plan or schedule your salesforce certification according to your preference
+and then you can give the exam.
+And that is a later part, I think for you and talking about where you can apply.
+So you can apply it on Nokri or on LinkedIn.
+And the biggest question is, will I get the interview calls?
+So I'd answer that question as well.
+So if you search for salesforce developer on LinkedIn, you will see a lot of job post
+out there.
+There is one thing that you can see on the job post is the number of applicants to search
+jobs are very less.
+So that makes greater chances of you to get selected on the job.
+And if you're applying for the companies such as Deloitte, Accenture or salesforce itself,
+then you get the interview calls if you have one year of experience.
+And if you are not experienced at all, then you still can learn those skills and apply
+at Accenture or salesforce.
+I was a fresher out there and I was getting the job interview calls for from those companies.
+Right now I'm working as a salesforce data analyst, wherein my skills are salesforce
+admin.
+And I have also learned the salesforce development, but I know the data analysis as well.
+So I'm working as a salesforce data analyst.
+Also, if you're a YouTube fan, if you watch your audio tutorials on YouTube, then you
+can search for Apex R or salesforce.
+They have created a great playlist for Salesforce and you can learn those skills from them.
+So yeah, one more thing before applying to the job post of Salesforce developer is that
+please make a killer resume for your job of Salesforce because that will grab the recruiter's
+attention and increase your chances to get selected in the particular role.
+So always make sure to have a great resume before applying to any kind of job post that
+you are doing.
+And if you see the job post on LinkedIn for Salesforce development, you will see that
+very few applicants apply for the job post because of the high demand and low skilled
+person.
+So yeah, this will definitely increase your chances to get the job offer and wish you
+guys luck.
+I hope this was helpful for you all and stay tuned.
+Bye bye.

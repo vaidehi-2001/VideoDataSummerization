@@ -1,0 +1,80 @@
+Welcome to my channel, I am Ben, the business analyst expert.
+In today's video, we will be having an in-depth understanding of what Salesforce business
+analysts do, their salary, and how you can make a career as a Salesforce business analyst.
+But before getting more insight into the main context, don't forget to subscribe to my
+channel and press the bell icon to get the latest update of our channel.
+Business analysts help guide businesses in improving processes, products, services, and
+software through data analysis.
+These agile workers straddle the line between IT and the business to help bridge the gap
+and improve efficiency.
+So what a Salesforce business analyst do?
+As a Salesforce business analyst, you will be part of a team responsible for delivering
+enterprise cloud technology solutions to Fortune 500 companies and government agencies.
+Our Salesforce business analysts wear many hats on their projects and are responsible
+for everything from requirement gathering, Salesforce configuration, testing, training,
+and post-deployment support.
+As a Salesforce business analyst, you will work alongside solution architects and technical
+architects to design, develop, and deploy large-scale enterprise solutions while learning
+and growing your skill set.
+Key roles and responsibilities of Salesforce business analysts.
+Number one, work with clients and end users to gather, understand, and define business
+requirements.
+Number two, develop user stories and 2B process flows to support the design and development
+of Salesforce solutions for our clients.
+Number three, work collaboratively with team members to design a solution that will meet
+a client's business requirements and fulfill user stories.
+Number four, complete the configuration for user stories within Salesforce, app exchange
+products or other cloud-based technologies.
+Number five, collaborate with developers to test and verify that solutions will meet the
+business requirements.
+Number six, participate in key meetings with clients including requirement sessions, system
+demos, user acceptance, testing, and end user training.
+What are the skills and experience required to become a Salesforce business analyst?
+Number one, must have a bachelor's degree completed.
+Number two, hands-on experience configuring Salesforce for similar CRM product, including
+workflows, validation rules, and security controls.
+Number three, proven ability to leverage analytical and problem-solving skills in a fast-paced
+environment.
+Number four, detail-orientated individual with the ability to quickly ramp up on new
+clients, their business needs, and technologies.
+Number five, strong presentation, communication, written and verbal skills, and interpersonal
+skills.
+Number six, ability to juggle and prioritize multiple tasks within a collaborative team
+environment.
+Number seven, demonstrates flexibility and willingness to do what it takes to get the
+job done.
+Number eight, drive and desire to learn and grow both technical and functional skill sets.
+Number nine, proficient in Microsoft Word, Excel, PowerPoint, Project, and Visio.
+Number 10, experience using Salesforce for similar CRM products to develop client or
+business solutions.
+Now let's talk about the average salary of a Salesforce business analyst based on his
+seniority level.
+Number one, junior level.
+At this level, you have one to two years of experience as a business analyst.
+You're in a supporting role and executing tasks delegated by others.
+You're not independent yet, but learning and growing.
+The average base pay inclusive of bonuses and overtime is $102,457 yearly.
+Number two, mid-level.
+You've gained vast experience, acquired various certifications.
+You're in charge of developing user stories and the expected flow process to support the
+problem solving design and facilitate requirements gathering meetings and leading projects, ensuring
+that the user requirements are captured and documented.
+The average pay for this position is $117,992 yearly.
+Number three, senior level.
+You are already an expert as a business analyst using Salesforce and lead multifaceted projects
+with integrations.
+You are required to quickly comprehend the challenges of a client's business and be able
+to identify the strengths and weaknesses of an organization and make recommendations on
+areas to improve.
+The average salary for a senior level is $130,005 yearly.
+So if you're looking to become a Salesforce business analyst, click in the link in the
+description below to sign up for the full Salesforce business analyst tutorial.
+You will not only gain real life project experience, but you will get training and quizzes that
+will help you prepare for your Salesforce admin certification.
+And if you liked this video, give a thumbs up and show your support in the comments section
+below.See you in the next video.
+Until then, keep smiling.
+Please subscribe to my channel if you have not done it yet, and don't forget to click
+the notification button.
+I hope you guys learned and enjoyed this video.
+Thank you and have a great day.

@@ -1,0 +1,106 @@
+The year is 2016. I was six years younger and had no gray hair when I was doing my first ever coding interview.
+How would I describe myself? Three words. Hardworking, alpha male, jackhammer, merciless.
+In those times, the interviews used to happen in person and on an actual whiteboard.
+Just before the interview, I was told that my interviewer is the director of engineering
+and has years of experience. The interview started, and after some icebreakers,
+I was given a problem where I had to merge a list of overlapping time intervals. All of a sudden,
+my heart started pounding and my throat started feeling drier than the Sahara.
+There was a pin drop silence in the room, except for the chips my interviewer was munching.
+For five minutes straight, I stood there staring at the whiteboard without writing a single line
+of code. In that moment, nobody could have predicted that this young boy will be working
+at Google in a few years and have a lot of gray hair. In today's video, I'll share how I got over
+blanking out and embarrassing myself in the coding interviews. Let's do this.
+The first instinct of most people when presented with a question in a coding interview is,
+have I seen this problem before? In fact, I know so many people whose sole strategy of cracking
+interviews is memorizing the solutions of popular interview problems. Well, this is one of the most
+common reasons why people can't think effectively in coding interviews. To understand why that is,
+let's do an exercise together. What comes to mind when you see this word? You can pause the video
+and write your answer in the comments. Now I want you to consider the word eat. What comes to your
+mind now when you see the same word again? Most people will see the word soup the second time.
+If I had asked you to consider the word shower instead of eat, there's a good chance that you
+would see the word soap instead. This phenomenon is called priming. The example you just saw is
+taken from the book, Thinking Fast and Slow. I highly recommend this book if you want to
+understand your thinking process better. Anyway, priming is a phenomenon where your exposure to
+one stimulus affects your response to the subsequent stimulus without even knowing it.
+In a coding interview, when you get a problem that's similar to something that you've already seen
+before, your brain can easily convince you that their solutions must be also very similar. And
+sometimes that can prove to be a fatal mistake. Let's take the example of this two-sum problem.
+You're given an array of numbers and a target sum. You need to find two numbers in the array
+that add up to this target sum. You can assume that there is only one solution to this problem.
+How would you solve this question? You can iterate the array and keep putting every number you see
+in a hash set. But before you do that, you can check if target minus current number is already
+in the hash set. And if it's there, you have already found the solution. If you understand that,
+I want to change this problem a little bit for you. Instead of giving you just any array,
+I want to give you a sorted array and you need to find two numbers that add up to a target sum.
+How would you solve this problem now? If you have not seen this problem before,
+you can pause the video and leave your answer in the comments. As a result of priming,
+many people try really hard to use hash set for this problem as well. But that's not the
+optimal solution. This problem can be easily solved using two pointers without using any
+extra space required for a hash set. I will leave a link to the solution in the description.
+Initial moments when you're given a problem are very crucial. Once you start thinking in one
+direction, it's very hard to pull your brain back and explore another direction. Have you ever had
+an experience where you were trying to solve a problem for a long time but could not make
+any progress? Then you took a short break or slept and came back to the same problem. And to
+your surprise, the solution was right there in front of your eyes. Research has shown that when
+you work continuously, you get fixated on previous solutions and it's very hard to think creatively.
+That's why if you go with your urge of thinking, have I seen this before, you're bound to get stuck
+in that train of thought. It's going to be very hard to return. In the lucky case, if you've seen
+the problem before, you might be able to reproduce the solution that you already know. But in most
+other cases, the outcome of the interview might not be what you hope for. I believe that instead
+of trying to find some memorized solution, you should ask yourself a very simple question.
+Do I understand the problem fully? And if the answer is no, ask clarifying questions. Not only
+that, write down some test cases and tell your interviewer what you think the answer to those
+questions is. There are two advantages to this. One, if your answer is wrong, the interviewer
+will tell you why it's wrong and in the process, she might drop some useful hints. Additionally,
+as a result, you will not end up wasting 30 minutes of your interview before realizing
+you misunderstood the problem. And number two, when you walk through the test cases,
+your brain will start seeing some patterns and these patterns can help you reach the solution
+faster. But how do you find these patterns? One way to do this is to completely transform the problem.
+Let me explain with the help of a coding problem. Imagine that you work for a large construction
+company. Your company has received a big project to connect some cities on the opposite sides of
+a river with bridges. Civil engineers have already completed their inspection and created a list of
+bridges that can be constructed. And this list looks something like this. The first bridge in
+the list would be between a city that has an x coordinate of 10 on the north side of the river
+and a city that has x coordinate of 20 on the south side of the river. Similarly, the second bridge
+can be constructed between a city with coordinate 2 on the north side and a city with coordinate 7
+on the south side. You can draw the other bridges in the same way. Now constructing overlapping
+bridges comes with a lot of challenges. So the civil engineers want you to answer a very simple
+question for them. What is the maximum number of non-overlapping bridges that can be constructed
+given this list? Now this looks like a very challenging problem at first, but let's examine
+it a little closely. Let's say you start from the first city on the south side. If you decide to
+construct the bridge at this city, you would not be able to construct all these other bridges that
+intersect with this bridge. All these overlapping bridges have one thing in common. The city on the
+north side of all these bridges lies to the left of the north side city of the bridge that you want
+to construct. In other words, you can only pick bridges that have increasing x coordinates of
+north side cities. If you understand that, the problem becomes very simple. You first sort the
+bridges by the x coordinates of the cities on the south side. Now you can pick any increasing
+subsequence of the north side cities to find valid bridges. To find the maximum number of such bridges,
+you need to find the longest increasing subsequence of north side cities. And voila!
+And just like that, this question has transformed into a very well-known problem called longest
+increasing subsequence which many of you might have already seen before. I will link the solution
+of this problem in the description, but here is what I want you to take away from this. Don't get
+fixated on the problem that was given to you. Always ask yourself, can I change this problem
+a little bit and solve the new problem instead of the original one? For example, in the longest
+[increasing subsequence problem, instead of trying to find the longest increasing subsequence of the
+entire array, can I find the longest increasing subsequence ending at a particular index?
+Something to think about after you subscribe to the channel. Another reason why many people
+can't think effectively in an interview is because they act like an ostrich. Allow me to explain this.
+Ostriches are beautiful creatures and we all know how fast they can run. But there's a myth about
+ostriches that is very popular. When in danger, the ostriches are said to bury their heads in the
+sand to hide from reality. Even though this is not true, it has given rise to the term the ostrich
+syndrome. The ostrich syndrome is the tendency of some people to avoid unpleasant situations or
+information. In the context of coding interviews, being an ostrich means not responding well to the
+interviewer's feedback. I know so many people who get very defensive when the interviewer points a
+fault in their thinking process or code. What you need to understand is that the interviewer is your
+friend and they are talking to you as if you are their co-worker and at work. Nobody is right the
+hundred percent of the time so it is okay if you made a mistake. Don't be too hard on yourself and
+ruin the rest of the interview by getting fixated on some mistake you made. Take the feedback,
+build on it, solve the problem and thank the interviewer by saying, I could not have solved
+the problem without your help. Trust me, people love genuine interactions in the interview.
+Another thing that has helped me think better in the interview is listening to music just
+before the interview. The main goal here is to calm your nerves and not even think about the
+interview. So 15 minutes before I hop on the interview call, I listen to my favourite music
+which is straight up Punjabi gangster rap. But hey, to each their own. The best way to improve
+your ability to think in a coding interview is to practice a lot of interview style problems.
+If you want to know which exact problems you should practice, watch this video.
+My name is Sahil and I'll see you in the next one.

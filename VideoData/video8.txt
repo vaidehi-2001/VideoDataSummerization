@@ -1,0 +1,110 @@
+Hey everyone, welcome back to my channel.
+My name is Emily and I talk a lot about Salesforce.
+Today we're going to be talking about the pros and cons of using
+Salesforce for your company.
+I have been doing Salesforce for over 10 years now, first as an end user,
+and then as an admin, and now I create helpful content like this.
+And I also create certification courses for Salesforce.
+I am a little bit biased when it comes to Salesforce, but I do recognize
+that Salesforce just plain out isn't for everyone or for every company's situation.
+So without further ado, let's go ahead and jump in to the pros and cons list.
+All right, let's go ahead and jump into the pros first.
+Salesforce is really, really awesome at automations.
+Automations can make your life easier and can save your company time and money.
+You can create automations to, as a click of a button, fill out a
+docu-sign form with all the information that you've already put into Salesforce
+and send it to your client so they can sign that and get your company going
+on the next steps with that client.
+It can be really useful for creating renewal opportunities.
+If your company has a subscription based model that has to be
+renewed every year with the client.
+And most automations can be done with little to no code.
+Your basic senior admin can do a lot of different automations and make
+your business processes go a lot smoother and faster.
+Salesforce can also house all of your data or most of your data.
+There are different places and different aspects of Salesforce.
+Mainly we can talk about is marketing can hold most of your marketing endeavors.
+It can hold most of your service tickets that come in from your customers
+to service them and to get them on their merry way to enjoy your product.
+As well as of course, Salesforce can do all of your sales right there.
+They also have different aspects of commerce where you can set up.
+It's similar to Shopify where you can set up a product and have that be in the back end.
+You can also customize stuff to make it right for you.
+All right.
+Number three is that they can process payments.
+This is an add-on and it's very similar to how Stripe does things.
+But you can do that in-house with Salesforce.
+Number four is Salesforce can keep you on track with the use of AI.
+They can help you keep your deals and your service people on track to hit their
+quotas and close deals and keep up with customers and with people who need to be
+followed up with on multiple aspects of the business.
+And number five, Salesforce is great for teamwork.
+They have a Slack integration.
+And so you can Slack about different opportunities or different records that
+you find within Salesforce.
+You can also create different groups of teams within Salesforce.
+Here's an example.
+Let's say we had a blue product and a green product and you had a blue and a
+green product expert and you had your regular sales rep just working on an
+opportunity and they really needed help with the green product expert.
+You'd be able to add the green product expert onto their opportunity team so
+then they could come and help clarify some questions that the client has and
+help them into a better decision.
+Same with blue as well.
+The product expert can come onto that.
+This doesn't just work on opportunities.
+You can also do this on accounts and cases.
+So then the blue and the green product expert can help service those tickets.
+All right, so now let's go ahead and move on to the cons.
+Salesforce is pretty expensive.
+A base license of your regular enterprise software or enterprise Salesforce
+licenses is it's about $150 per user per month to use Salesforce.
+That can be pretty expensive.
+You can get discounts if you go there at the right time to get your deals done,
+as well as if you have a lot of users on Salesforce.
+Fun fact, Salesforce's fiscal year ends at the end of January.
+So January is about the time when you're wanting to renew your contracts.
+So then you can get the best deals and discounts cause they are pretty
+incentivized to get those deals through the door at that end of the fiscal year.
+Salesforce also has lots of add-ons.
+Like I've mentioned before, you could add on billing and CPQ, but these are
+going to be extra in addition to that $150 per month, as well as the
+talent is pretty expensive as well.
+Average admin salaries or senior admin salaries can be around $100,000,
+depending on where you're at in the country.
+And if you are onshore versus offshore, but it really just depends on where
+you're at and how much help you need within your Salesforce org.
+Another pro is if you don't have the funds, it kind of sucks.
+If you don't have the funds to get the products that you want to really
+customize out your Salesforce org.
+And if you're running a very lean startup, it's not going to be good for you.
+Um, however, if you are in the nonprofit space, there are discounts that you can
+get from Salesforce to, to make the software cheaper and also have it be a
+little bit more customized out of the box for you, um, when you get Salesforce.
+Another con is that you can find similar versions of the same thing in other
+products for a lot cheaper.
+Uh, for example, you can find HubSpot.
+It's very similar to Salesforce and it is really good if you are just barely
+getting your boots on the ground with your company, you still want to capture
+customer data, you still want to CRM.
+If you're looking to save money, definitely check out HubSpot.
+And number four and the final con, at least for this video is going to be that
+the upkeep of Salesforce and the data as well as the errors can be pretty
+uncomfortable and really difficult to get around, especially if you don't
+have the team to support it.
+Salesforce is really prone to errors within custom configurations.
+And so if your company isn't quite ready to take on a lot of Salesforce talent,
+then it won't be a good, a good spot for you.
+I still think Salesforce is great.
+And if you are a larger or mid-sized enterprise company and you're wanting to
+house all your data and use all these different things, and you have a good
+amount of funds ready to go, then definitely check out Salesforce.
+Um, if you're trying to be a very lean startup and you aren't quite ready to
+have a lot of people on your database, then definitely check out other solutions
+such as HubSpot or monday.com.
+But without further ado, um, if you have any questions, be sure to leave them
+down below, I'll be happy to answer them as soon as possible.
+Check out the links down below.
+I create certification courses on Salesforce at SalesforceHubskill.com.
+Find me on LinkedIn at EmilyKahlMBA.
+Thank you so much and have a good one.
