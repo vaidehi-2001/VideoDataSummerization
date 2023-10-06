@@ -1,0 +1,91 @@
+Hello everyone, welcome back to my channel.
+This is Janvi and you are watching Study with Janvi channel.
+So in today's session, let's see my interview experience in IBM.
+My interview in IBM has scheduled at April 30, 2021.
+But actually, to be frank, the interview was on April 28, due to some technical issues
+from IBM side.
+So they have rescheduled my interview to April 30.
+So now let's see what are the questions that have asked me in the interview as well as
+what are the most stressable concepts in the interview.
+When I entered into the interview panel in Webex, we both greeted each other as well
+as we had a basic conversation like how are you and so.
+So this conversation make me feel so smooth and free throughout the interview.
+And then later he introduced himself and asked me to introduce myself.
+So keep your introduction very short, that should be approximately one minute or less
+than one minute.
+So I have introduced myself in 45 seconds approximately.
+And then the next question, the straight question is to explain project.
+In the project, interviewer has asked me many questions.
+But the first and foremost thing was he asked me about to explain the project in a detailed
+way.
+As I'm a fresher, 2021 pass out, so I have completed my mini project, but still not completed
+my major project as it was going on now.
+So I said this statement to the interviewer and I started explaining my mini project in
+a detailed way.
+After explaining the project in a detailed way, the first and foremost question was,
+is it a group project or is it an individual project?
+So I have said that this was a group project.
+And then he asked me that how many members are there in this particular project.
+After telling the answer, he asked me, is there any conflicts between the team members
+or no?
+So I explained the answer.
+And then the next question was, what are the technologies that we're using in this project?
+And what are the drawbacks that were there in this project?
+As well as he asked me that what were the technical work that you're working in this
+project?
+And then why did you pick this project as well as are you a team member or the team
+leader?
+So these are the basic questions that were asked in the project that you can easily answer
+if you know the project in a detailed way.
+So be very cautious because this was the project that you have done.
+So you should be very confident at this particular stage to answer any type of question.
+As I have already told you about the mini project that I have completed, my major project
+was going on.
+So interviewer has asked me some basic questions on the major project, like what was the project
+and what were the technologies that you were using in this project?
+As well as could you please explain the project in a brief way?
+And what was the time bound that you set to complete this project?
+So these were the basic questions that were asked in the major project.
+And the next question was the new technologies.
+So he asked me that what are what were the new technologies that you are familiar with?
+So I said machine learning and cloud computing.
+So machine learning because this was in my major project, so I should mention it and
+I am bit confident with the machine learning.
+And also he asked me about the cloud computing.
+So he asked me some deeper questions in the machine learning.
+As I have said, I have I have it in the project.
+So either you are a CSC student or non CSC, you should be a bit familiar with the new
+technologies.
+So mainly every interviewer ask are asking about the new technologies.
+So be careful with this particular question.
+Just know some basic details about the machine learning, artificial intelligence, cloud computing,
+deep learning.
+Apart from the project, interviewer has asked me a few more questions like use of joins
+in SQL.
+Not only joins, we have a bunch of topics which will be very much important to any type
+of interview.
+So I'll be uploading it in the next video.
+Please make sure that you subscribe and hit the bell icon so you will get all my notifications
+on and coming to the next question.
+These are situational based questions.
+So the interviewer started explaining me a situation where he asked three to four questions
+from that and we need to be very much interested in this type of questions to answer.
+We should answer it in a very smart way.
+And the final question is any questions for me?
+So I have asked some queries that I have and that's all the interview was done here.
+And finally, I would like to tell you that this was totally my own interview experience.
+So this could be varying according to the interviewer and along with your resume details.
+So please make sure that you are perfect enough with your resume details.
+And finally, I would like you to mainly focus on the project, which is very much important
+in any type of interview.
+So you must be very much confident enough whenever you explain your project and coming
+to the next question, you must be very much familiar with the new technologies, at least
+have a basic knowledge about the new technologies like artificial intelligence, machine learning,
+and the most important thing is cloud computing.
+So at least have some basic knowledge in it.
+And coming to the HR questions, you will be having a normal HR questions which are very
+much repeatedly asked in IBM interview.
+Not only IBM interview, you'll be having HR questions in any type of interview.
+So I would like you to suggest IndiaBix website or the app you have.
+So please download the app and go through the HR questions, which will be helping you
+a lot.

@@ -1,0 +1,107 @@
+Hello guys, now I am going to share my experience in Oracle on campus interview.
+Oracle came for our college for recruiting further role associate software engineer.
+It offered about 16.64 CTC.
+There were 5 rounds.
+First was an online MCQ test followed by the coding test and there were 2 technical interviews
+and finally a HR round.
+In the first round that is online MCQ test, around 360 students have taken the test and
+there were 82 MCQs and the total time was 107 minutes.
+It was conducted on Oracle Pro aptitude platform.
+The questions were based on aptitude, from aptitude, logical reasoning, quantitative
+reasoning and verbal.
+And from data structures, they mostly concentrated on the topics trees and linker list.
+Most of the questions were asked from the concepts of binary search tree, heap, AVL
+tree and tree traversal techniques.The core subjects which were asked in the exam were DBMS, operating systems and C and
+computer networks.
+The basic sorting and searching algorithms were given and the questions were asked about
+the time complexities i.e. the best time complexity or the worst time complexities
+and also few loops were given where we need to predict the best or worst time complexity.
+The second round was online coding test.
+It was conducted on the same Oracle Pro aptitude platform and they gave 2 coding questions
+and the allotted time was 60 minutes.
+Only 3 coding languages were allowed and not all the versions of C++ or Java are allowed.
+Only the basic versions of C++ and Java are allowed.
+Here the programming languages which were allowed are C, C++ and Java.
+For these 2 questions, I could say one was a graph based question which was a medium
+level and other was searching a string in a grid.
+For this question, the concepts of DFS and backtracking are required where I have solved
+about 1.5 questions and all the people who have solved more than 1 question have qualified
+for the interview.
+And coming to this online coding test, around 60 students have taken part in this online
+coding test and among the 60, 23 were able to solve at least one problem in the given
+2 problems and they are qualified for the interview.
+Around 23 students have been qualified for the interview.
+Coming to the interview, before this interview there was a PPT conducted by the company and
+I say that it is compulsory to attend the PPT and listen carefully about the Oracle
+and its GBU units.
+Coming to the first round, it was technical interview.
+It was a face to face interview.
+For me it was about 50 minutes and the first interviewer asked me that tell me about yourself.
+So I could briefly explain myself starting from my background and my education and also
+coming to the positions of responsibilities and my projects and my internship.
+Then a detailed discussion went about my recent project.
+Next the interviewer asked me the Python questions.
+In Python he asked me about slicing and difference between a list and tuple.
+As company is much oriented with the database, the interviewer asked me about the primary
+key, unique key, integrity constraints and schema.
+Next he gave me a coding question where the two strings were given and to check whether
+the two strings are anagrams or not.
+So I gave him 4 optimizations starting from the brute force.
+Then later he just asked me to check whether two strings will be anagram and if they are
+to be anagram the number of swaps which we must make in strings.
+When I was coding the interviewer asked me about the importance of break statement and
+the importance of break statement in Java after using the written statement.
+Next at the last of this interview he just asked me about what do you know about oracle.
+I could explain what I know about the oracle and the things which I have listened from
+the ppt-preplacement talk.
+And also he has asked me about the different gbu units and later he has stressed me this
+question that why not the higher studies.
+This higher studies discussion for me went about 5 minutes where I gave a detailed reasoning
+and he was counter questioning me.
+So successfully I completed this technical interview 1 and coming to this technical interview
+2 the first question was same that is tell me about yourself.
+And then he gave me a coding question to find the frequency of each letter and word in a
+given sentence.
+I gave him 3 optimization techniques and he gave me another question to find the duplicate
+elements in an array.
+For this question I gave him 6 optimizations and next he asked me about the linker list
+applications and though connected with this linker list he went in depth with this discussion
+of linker list, double E linker list and circular linker list.
+And then I have done my internship on this web RTC web real time communication.
+So the discussion went on this web real time communication and he gave me few edge cases
+where I could where I can use this web RTC over the zoom and google meet.
+And next as I mentioned in my resume as I am working as CER and PC so he asked me about
+my positions of responsibilities and then the next question was this linear and non-linear
+data structures.
+As I mentioned in the resume about my SQL hacker ranking so he asked me about it and
+also gave me few queries where I was able to solve the queries and the basic DBMS questions
+were asked further.
+Finally even I could clear this technical interview too and then I entered the last
+round that is HR round.
+And first question was about my recent project and detailed discussion about my recent project
+went and he asked me about in depth questions about the constraints and I cannot use this
+project few test cases or few examples where I cannot use this project or where this project
+is limited up to.
+And then next question was about my positions of responsibilities and he asked me about
+the to detail about the procedure in which I took these responsibilities and how I am
+working and about my pressure situations taking up these responsibilities.
+And then he asked me about the best and worst project reasoning and my about my major project
+idea.
+Then he gave me few case studies.
+One of the few case studies which he gave was to prepare a application that can be used
+for street vendors.
+He asked me to list out the constraints or the basic test cases which I will be considering
+when creating an application for the street vendors.
+And next he asked me that if I could work for a company which offers me a project of
+about 25 years.
+Software development lifecycle discussion went through and he have asked me about the
+different levels of testing, alpha testing, beta testing.
+And lastly he asked me about the questions about my hobbies and time management and also
+I am selected for this role and suggestions from my side are like for coding round you
+must have intense practice from your side.
+Practice on the platform, hacker rank, coach F and code forces and be confident while you
+are answering the subject related questions like operating systems, computer networks
+and DBMS.
+They may grill you a lot but be confident.
+Finally I could say that be cool and calm to give your best.
+Thank you guys.
